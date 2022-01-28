@@ -1,0 +1,13 @@
+{
+    "user": {
+        "id": "308125360963190795",
+        "username": "Hedwig",
+        "discriminator": "0420"
+    },
+    "blacklistdata": {
+        "blacklisted": true,
+        "reason": "This is the blacklist reason",
+        "date": "This is the date the user were blacklisted",
+        "by": "The admin the user was blacklisted by"
+    }
+}
